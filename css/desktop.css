@@ -1,0 +1,67 @@
+.header__menu_btn{
+    display: none;
+}
+
+.header__bot_logo{
+    margin-left: 10px;
+}
+
+.nav__links_container{
+    display: block;
+    margin-top: 36px;
+    margin-right: calc(50% - 490px);
+}
+
+.nav__links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__links li{
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+
+.nav__more-links_container{
+    display: block;
+    margin-top: 36px;
+    margin-left: calc(50% - 170px);
+}
+
+.nav__links li p{
+    color: #fff;
+    font-size: 1.4rem;
+}
+
+.dropdown__animation{
+    display: block;
+    height: 50px;
+}
+
+.nav__login_button{
+    width: 75px;
+    height: 35px;
+    background: none;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: 2px solid var(--main-color);
+    border-radius: 10px;
+    color: #fff;
+}
+
+.nav__login_button:hover{
+    background-color: var(--main-color);
+}
+
+.main__wavy_separator_top{
+    height: 200px;
+    background-size: 200%;
+}
