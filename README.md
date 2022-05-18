@@ -8,3 +8,4 @@ I strongly advice using mine if you want better mobile support and a more semant
 
 note:
 ALso I might've missed some things and you'll probably have to recreate them yourself until I notice them
+ete sech
